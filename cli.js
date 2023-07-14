@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-//test
 import chalk from 'chalk';
 import readFile from './index.js';
 import fs from 'fs';
